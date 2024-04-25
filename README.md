@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wesam</h1>
 <h3 align="center">Passionate about learning new fields. Shifting my career from a pharmacist to a software engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesam-c&label=Profile%20views&color=0e75b6&style=flat" alt="wesam-c" /> </p>
 
 - 🌱 I’m currently learning **at ALX Software Engineering Program**
 
