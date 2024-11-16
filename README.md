@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesam</h1>
 
 
-- 🌱 ** ALX Software Engineering Program** grad.
+- 🌱 **ALX Software Engineering Program** grad.
 
 check => https://medium.com/@wesameldeeb15 ✨
 
