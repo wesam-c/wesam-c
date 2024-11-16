@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesam</h1>
-<h3 align="center"> Shifting my career to a software engineer.</h3>
 
 
-- 🌱 I’m currently learning **at ALX Software Engineering Program**
-
-- ⚡ Fun fact **I like art and street photography.**
+- 🌱 ** ALX Software Engineering Program** grad.
 
 check => https://medium.com/@wesameldeeb15 ✨
 
